@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Smart Task</string>
+    <string name="title_activity_principal">Principal Activity</string>
+
+    <!--personal task list-->
+    <string name="personal_task_list">Minhas tarefas</string>
+
+    <!--fragment types names-->
+    <string name="fragment_type_new_task">Nova tarefa</string>
+    <string name="fragment_type_task_list">Lista de tarefas</string>
+
+    <!--task priorities text-->
+    <string name="priority_low">Baixa prioridade</string>
+    <string name="priority_medium_low">Medio baixa prioridade</string>
+    <string name="priority_medium">Media prioridade</string>
+    <string name="priority_medium_high">Medio alta prioridade</string>
+    <string name="priority_high">Alta prioridade</string>
+
+    <!--alarm timers text-->
+    <string name="timer_alarm_three_hours">3 horas</string>
+    <string name="timer_alarm_two_hours">2 horas</string>
+    <string name="timer_alarm_one_and_a_half_hour">1 hora e meia</string>
+    <string name="timer_alarm_one_hour">1 hora</string>
+    <string name="timer_alarm_forty_five_minutes">45 minutos</string>
+    <string name="timer_alarm_thirty_minutes">30 minutos</string>
+    <string name="timer_alarm_fifteen_minutes">15 minutos</string>
+    <string name="timer_alarm_ten_minutes">10 minutos</string>
+    <string name="timer_alarm_five_minutes">5 minutos</string>
+    <string name="timer_alarm_none_alarm">Nenhum alarme</string>
+
+    <!--new task texts-->
+    <string name="new_task_title">Titulo</string>
+    <string name="new_task_title_hint">Titulo da tarefa</string>
+    <string name="new_task_description">Descição</string>
+    <string name="new_task_description_hint">Descriçao da tarefa</string>
+    <string name="new_task_task_list">Lista</string>
+    <string name="new_task_priority">Prioridade</string>
+    <string name="new_task_due_time_and_date">Hora e data para vencimento</string>
+    <string name="new_task_alarm">Alarme</string>
+
+    <string name="all_fields_must_be_completed">Todos os campos devem ser preenchidos</string>
+    <string name="invalid_alarm_time">Tempo e alarme inválido</string>
+    <string name="due_time_invalid">Data de vencimento inválida</string>
+    <string name="select_date">Selecione a data</string>
+    <string name="select_time">Selecione a hora</string>
+
+    <!--default texts-->
+    <string name="cancel_text">Cancelar</string>
+    <string name="create_text">Criar</string>
+
+    <!--menu itens-->
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="action_settings">Configurçoes</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="your_tasks_lists">Suas listas de tarefas</string>
+    <string name="alert_new_task_created">Tarefa criada com sucesso</string>
+    <string name="alert_new_task_problem_creation">Problema na criaçao da tarefa</string>
+    <string name="menu_options_section">Opçoes</string>
+    <string name="menu_item_new_list">Nova lista</string>
+    <string name="menu_item_remove_list">Apagar lista</string>
+    <string name="type_the_name_of_new_list">Digite o nome da nova lista</string>
+    <string name="list_name_invalid">Nome de lista invalido</string>
+    <string name="new_list_created">Nova lista criada</string>
+
+</resources>
